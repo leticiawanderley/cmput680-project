@@ -15,9 +15,8 @@ int main(){
   const char      *fifonameres = "/tmp/predictor-results";
   int fifofd, fiforesfd;
   ssize_t didwrite, didread;
-  char buf[MAXBUF];
-  memset(buf, 0, MAXBUF);
-  buf[1] = "1";
+  int buf[MAXBUF] = {0};
+  buf[0] = 2;
   char response[MAXBUF];
 
   //this fifo is for our requests
