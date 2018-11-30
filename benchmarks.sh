@@ -16,7 +16,7 @@ do
 	if $is_aot; then
 		$($java_path -Xshareclasses:destroyAll);
 	fi;
-	for j in `seq 0 10`;
+	for j in `seq 0 20`;
 	do
 		time=$({ time $($java_path $aot -jar $benchmark_path $i &> /dev/null) ; } 2>&1);
 		echo 'time: ' $time;
