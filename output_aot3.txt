@@ -276,7 +276,6 @@ real 0m2.615s user 0m2.080s sys 0m1.420s
 real 0m2.620s user 0m2.220s sys 0m1.290s
 real 0m2.618s user 0m2.390s sys 0m1.070s
 real 0m2.570s user 0m2.470s sys 0m0.970s
-real 2m8.129s user 2m46.670s sys 1m25.420s
 real 0m6.850s user 0m5.500s sys 0m2.780s
 real 0m4.612s user 0m3.580s sys 0m2.040s
 real 0m3.513s user 0m2.780s sys 0m1.530s
@@ -304,7 +303,6 @@ real 0m2.603s user 0m2.080s sys 0m1.290s
 real 0m2.564s user 0m2.260s sys 0m1.110s
 real 0m2.634s user 0m2.240s sys 0m1.270s
 real 0m2.643s user 0m2.210s sys 0m1.380s
-real 0m24.061s user 250m41.730s sys 110m2.030s
 real 0m3.528s user 0m2.110s sys 0m2.060s
 xalan
 real 414m51.610s user 0m25.360s sys 0m11.870s
