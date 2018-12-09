@@ -1,0 +1,4 @@
+1: conversion operators are classified in terms of what they start with? idk if this reasonable.
+ex int -> long: classified as int feature
+
+2: simple alu contains the following: add, sub, neg, shifts
