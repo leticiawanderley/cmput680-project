@@ -1,4 +1,11 @@
-1: conversion operators are classified in terms of what they start with? idk if this reasonable.
+1: conversion operators are classified in terms of what they start with? idk if this reasonable. it maybe would also make sense to put them in the mixed category?
 ex int -> long: classified as int feature
 
 2: simple alu contains the following: add, sub, neg, shifts
+
+3: "widening numeric conversion instructions" are classified as cast
+
+4: pop/dup are misc? they interact with stack, but not really load/store. unless we classify dup as a load and a store... which it technically is. pop would then be... not really load still....
+also put them in the mixed type category? more like. all except a few.
+
+5: return type of the method doesn't affect any particular feature? does it?
