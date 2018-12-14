@@ -1,0 +1,240 @@
+avrora
+real 0m13.739s user 0m9.680s sys 0m7.560s
+eclipse
+real 1m17.600s user 1m37.040s sys 0m32.970s
+fop
+real 0m8.742s user 0m11.120s sys 0m4.810s
+h2
+real 0m55.144s user 1m7.050s sys 0m25.730s
+jython
+real 0m39.598s user 1m0.100s sys 0m13.520s
+luindex
+real 0m5.539s user 0m5.940s sys 0m3.470s
+lusearch
+real 0m5.650s user 0m8.410s sys 0m1.990s
+lusearch-fix
+real 0m7.051s user 0m10.750s sys 0m2.390s
+pmd
+real 0m6.594s user 0m10.280s sys 0m2.020s
+sunflow
+real 0m10.017s user 0m17.140s sys 0m1.650s
+xalan
+real 0m11.092s user 0m16.770s sys 0m4.150s
+avrora
+real 0m17.620s user 0m13.630s sys 0m9.860s
+eclipse
+real 1m9.055s user 1m19.790s sys 0m30.360s
+fop
+real 0m6.155s user 0m8.040s sys 0m3.180s
+jython
+real 0m33.959s user 0m51.000s sys 0m12.090s
+luindex
+real 0m5.175s user 0m6.040s sys 0m3.170s
+lusearch
+real 0m4.454s user 0m6.640s sys 0m1.600s
+lusearch-fix
+real 0m4.939s user 0m7.240s sys 0m2.030s
+pmd
+real 0m6.122s user 0m9.180s sys 0m1.980s
+sunflow
+real 0m7.890s user 0m13.300s sys 0m1.290s
+xalan
+real 0m10.791s user 0m16.640s sys 0m3.610s
+avrora
+real 0m13.763s user 0m10.250s sys 0m7.440s
+eclipse
+real 1m3.385s user 1m14.530s sys 0m30.180s
+fop
+real 0m5.476s user 0m6.900s sys 0m3.210s
+h2
+real 0m40.789s user 0m42.970s sys 0m21.220s
+jython
+real 0m33.957s user 0m49.770s sys 0m13.650s
+luindex
+real 0m4.155s user 0m4.300s sys 0m2.670s
+lusearch
+real 0m4.114s user 0m5.990s sys 0m1.660s
+lusearch-fix
+real 0m3.475s user 0m4.810s sys 0m1.470s
+pmd
+real 0m5.433s user 0m7.930s sys 0m2.170s
+sunflow
+real 0m10.282s user 0m17.590s sys 0m1.890s
+xalan
+real 0m9.626s user 0m14.340s sys 0m3.680s
+avrora
+real 0m12.539s user 0m9.850s sys 0m6.990s
+eclipse
+real 1m6.495s user 1m19.370s sys 0m27.940s
+fop
+real 0m5.440s user 0m6.940s sys 0m2.940s
+h2
+real 0m40.078s user 0m42.430s sys 0m23.350s
+jython
+real 0m32.705s user 0m48.340s sys 0m12.540s
+luindex
+real 0m4.171s user 0m4.220s sys 0m2.800s
+lusearch
+real 0m3.815s user 0m5.280s sys 0m1.470s
+lusearch-fix
+real 0m3.818s user 0m4.920s sys 0m1.880s
+pmd
+real 0m6.074s user 0m9.100s sys 0m2.050s
+sunflow
+real 0m7.976s user 0m13.380s sys 0m1.380s
+xalan
+real 0m10.215s user 0m15.140s sys 0m4.110s
+avrora
+real 0m12.899s user 0m9.240s sys 0m7.490s
+eclipse
+real 1m3.280s user 1m14.140s sys 0m28.260s
+fop
+real 0m5.375s user 0m6.500s sys 0m3.440s
+h2
+real 0m39.062s user 0m41.560s sys 0m20.680s
+jython
+real 0m31.682s user 0m46.890s sys 0m11.860s
+luindex
+real 0m4.962s user 0m5.180s sys 0m3.170s
+lusearch
+real 0m3.705s user 0m5.030s sys 0m1.590s
+lusearch-fix
+real 0m5.140s user 0m7.880s sys 0m1.550s
+pmd
+real 0m5.397s user 0m8.110s sys 0m1.940s
+sunflow
+real 0m8.160s user 0m13.580s sys 0m1.430s
+xalan
+real 0m8.764s user 0m12.670s sys 0m3.680s
+avrora
+real 0m13.319s user 0m9.460s sys 0m7.720s
+eclipse
+real 1m3.303s user 1m17.680s sys 0m28.520s
+fop
+real 0m5.553s user 0m6.720s sys 0m3.500s
+h2
+real 0m44.059s user 0m48.710s sys 0m21.940s
+jython
+real 0m31.613s user 0m45.690s sys 0m12.920s
+luindex
+real 0m4.155s user 0m4.060s sys 0m3.160s
+lusearch
+real 0m4.151s user 0m5.350s sys 0m2.150s
+lusearch-fix
+real 0m4.265s user 0m5.760s sys 0m2.060s
+pmd
+real 0m10.714s user 0m14.680s sys 0m2.400s
+sunflow
+real 0m11.898s user 0m20.630s sys 0m1.720s
+xalan
+real 0m13.073s user 0m19.580s sys 0m5.190s
+avrora
+real 0m13.288s user 0m9.010s sys 0m8.220s
+eclipse
+real 1m30.064s user 1m59.580s sys 0m38.780s
+fop
+real 0m8.000s user 0m10.350s sys 0m4.580s
+h2
+real 0m47.552s user 0m56.940s sys 0m23.210s
+jython
+real 0m40.588s user 1m3.270s sys 0m13.190s
+luindex
+real 0m9.086s user 0m12.660s sys 0m4.790s
+lusearch
+real 0m5.736s user 0m8.720s sys 0m1.990s
+lusearch-fix
+real 0m4.339s user 0m6.400s sys 0m1.560s
+pmd
+real 0m5.626s user 0m8.080s sys 0m2.340s
+sunflow
+real 0m10.113s user 0m16.830s sys 0m2.230s
+xalan
+real 0m9.258s user 0m13.270s sys 0m3.970s
+avrora
+real 0m13.210s user 0m8.740s sys 0m7.910s
+eclipse
+real 1m8.508s user 1m21.900s sys 0m31.050s
+fop
+real 0m6.569s user 0m8.120s sys 0m3.980s
+h2
+real 0m39.729s user 0m43.100s sys 0m21.450s
+jython
+real 0m32.575s user 0m46.960s sys 0m13.100s
+luindex
+real 0m4.251s user 0m4.170s sys 0m3.070s
+lusearch
+real 0m3.934s user 0m5.740s sys 0m1.400s
+lusearch-fix
+real 0m4.630s user 0m6.730s sys 0m1.800s
+pmd
+real 0m5.132s user 0m7.560s sys 0m1.840s
+sunflow
+real 0m8.226s user 0m13.810s sys 0m1.470s
+xalan
+real 0m8.624s user 0m12.520s sys 0m3.700s
+avrora
+real 0m19.007s user 0m14.990s sys 0m10.010s
+eclipse
+real 1m25.856s user 1m46.010s sys 0m34.950s
+fop
+real 0m9.141s user 0m12.810s sys 0m4.250s
+h2
+real 0m44.776s user 0m49.900s sys 0m23.100s
+jython
+real 0m31.555s user 0m47.670s sys 0m10.750s
+luindex
+real 0m4.091s user 0m4.410s sys 0m2.330s
+lusearch
+real 0m5.837s user 0m8.910s sys 0m2.040s
+lusearch-fix
+real 0m8.681s user 0m10.770s sys 0m2.900s
+pmd
+real 0m7.067s user 0m11.040s sys 0m2.110s
+sunflow
+real 0m11.249s user 0m18.970s sys 0m1.970s
+xalan
+real 0m12.177s user 0m18.210s sys 0m4.620s
+avrora
+real 0m15.251s user 0m12.200s sys 0m8.500s
+eclipse
+real 1m25.621s user 1m50.250s sys 0m35.340s
+fop
+real 0m7.310s user 0m9.170s sys 0m4.390s
+h2
+real 0m45.588s user 0m51.800s sys 0m21.810s
+jython
+real 0m40.213s user 1m1.080s sys 0m14.000s
+luindex
+real 0m6.756s user 0m7.980s sys 0m3.900s
+lusearch
+real 0m7.921s user 0m11.850s sys 0m2.800s
+lusearch-fix
+real 0m5.053s user 0m7.540s sys 0m1.710s
+pmd
+real 0m6.548s user 0m10.090s sys 0m2.110s
+sunflow
+real 0m11.248s user 0m19.460s sys 0m1.670s
+xalan
+real 0m12.571s user 0m18.970s sys 0m4.710s
+avrora
+real 0m13.434s user 0m10.820s sys 0m6.930s
+eclipse
+real 1m6.537s user 1m21.280s sys 0m29.230s
+fop
+real 0m6.136s user 0m7.550s sys 0m3.780s
+h2
+real 0m50.601s user 0m58.950s sys 0m24.210s
+jython
+real 0m33.853s user 0m49.780s sys 0m12.950s
+luindex
+real 0m9.749s user 0m13.580s sys 0m4.950s
+lusearch
+real 0m4.895s user 0m7.040s sys 0m1.910s
+lusearch-fix
+real 0m6.621s user 0m10.420s sys 0m2.070s
+pmd
+real 0m7.491s user 0m11.390s sys 0m2.460s
+sunflow
+real 0m10.469s user 0m17.540s sys 0m1.870s
+xalan
+real 0m11.869s user 0m17.940s sys 0m4.390s
